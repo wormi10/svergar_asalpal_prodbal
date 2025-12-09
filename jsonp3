@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Ruta por el casco antiguo",
+      "subtitle": "Historia y arquitectura",
+      "category": "Cultura",
+      "city": "València",
+      "duration_minutes": 90,
+      "price_eur": 0,
+      "rating": 4.7,
+      "image_url": "https://ejemplo.com/imagenes/casco_antiguo.jpg",
+      "short_description": "Recorrido a pie por las plazas y monumentos más emblemáticos.",
+      "long_description": "Descubre el centro histórico de València en una ruta guiada que recorre sus plazas, monumentos y calles con más encanto. Ideal para una primera toma de contacto con la ciudad.",
+      "tags": ["historia", "arquitectura", "paseo"]
+    },
+    {
+      "id": 2,
+      "title": "Tour gastronómico por el barrio de Ruzafa",
+      "subtitle": "Tapeo y mercado local",
+      "category": "Gastronomía",
+      "city": "València",
+      "duration_minutes": 120,
+      "price_eur": 25.0,
+      "rating": 4.5,
+      "image_url": "https://ejemplo.com/imagenes/ruzafa_gastro.jpg",
+      "short_description": "Prueba distintas tapas y conoce el mercado local de Ruzafa.",
+      "long_description": "Visita guiada por el barrio de Ruzafa con paradas en distintos locales para degustar tapas y productos típicos. Incluye visita al mercado y explicación de la oferta gastronómica local.",
+      "tags": ["comida", "mercado", "tarde"]
+    },
+    {
+      "id": 3,
+      "title": "Paseo en bici por el Jardín del Turia",
+      "subtitle": "Naturaleza dentro de la ciudad",
+      "category": "Naturaleza",
+      "city": "València",
+      "duration_minutes": 60,
+      "price_eur": 10.0,
+      "rating": 4.8,
+      "image_url": "https://ejemplo.com/imagenes/turia_bici.jpg",
+      "short_description": "Recorre en bicicleta el antiguo cauce del río Turia.",
+      "long_description": "Alquila una bicicleta y recorre el Jardín del Turia, un gran parque lineal que atraviesa la ciudad. Ideal para hacer deporte y ver diferentes zonas verdes y puentes históricos.",
+      "tags": ["bicicleta", "parques", "mañana"]
+    }
+  ]
+}
